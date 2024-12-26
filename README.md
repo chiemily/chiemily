@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @chiemily
+- 👋 Hi, I’m chisom
 - 🌱 I’m currently learning Data Analytics
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
